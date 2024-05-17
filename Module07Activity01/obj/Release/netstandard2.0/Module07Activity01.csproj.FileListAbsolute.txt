@@ -1,0 +1,16 @@
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\bin\Release\netstandard2.0\Module07Activity01.deps.json
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\bin\Release\netstandard2.0\Module07Activity01.dll
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\bin\Release\netstandard2.0\ref\Module07Activity01.dll
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\bin\Release\netstandard2.0\Module07Activity01.pdb
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\Module07Activity01.csproj.AssemblyReference.cache
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\Module07Activity01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\Module07Activity01.AssemblyInfoInputs.cache
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\Module07Activity01.AssemblyInfo.cs
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\Module07Activity01.csproj.CoreCompileInputs.cache
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\Module07Activity01.sourcelink.json
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\Module07Activity01.dll
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\refint\Module07Activity01.dll
+C:\Users\lhize\OneDrive\Desktop\College\3rdYear_2023-2024\PDC30\Module07Activity01\Module07Activity01\obj\Release\netstandard2.0\Module07Activity01.pdb

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module07Activity01.MainPage" Title="LHIZEL N. TABUAL">
+
+    <StackLayout>
+        <Frame BackgroundColor="#819171" Padding="24" CornerRadius="0">
+            <Label Text="LHIZEL N. TABUAL" 
+                   TextColor="White"
+                   FontSize="Title"
+                   FontAttributes="Bold"/>
+        </Frame>
+        <Label Text="Hello World!" FontSize="Title" Padding="10"/>
+    </StackLayout>
+
+</ContentPage>
